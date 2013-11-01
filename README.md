@@ -9,7 +9,7 @@ Team members were:
 + Reyner Crosby
 + Jason Poon
 + Matt Huang
-+ [Steven Zhang][http://stevenzhang.com]
++ [Steven Zhang](http://stevenzhang.com)
 
 # How to install
 
