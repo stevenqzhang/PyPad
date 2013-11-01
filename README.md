@@ -9,7 +9,7 @@ Team members were:
 + Reyner Crosby
 + Jason Poon
 + Matt Huang
-+ [Steven Zhang][http://stevenzhang.com]
++ [Steven Zhang](http://stevenzhang.com)
 
 # How to install
 
@@ -18,13 +18,13 @@ Team members were:
 	
 1. Run pyro nameserver 
 
-	* see info on how to use pyro-ns command [here](http://pyro.sourceforge.net/manual/5-nameserver.html#cmds)
+	see info on how to use pyro-ns command[here](http://pyro.sourceforge.net/manual/5-nameserver.html#cmds)
 
 2. Get IP address listed on 4th line:  URI is: ....
 
 3. Enter IP address `default_ns_host` value in RemoteObject.py (line 9)
 
-	* (this should have been a commandline argument but...)
+	(this should have been a commandline argument but...)
 
 4. Run PypadServer.py from command line. Add parameter -v if you want verbose output
 
